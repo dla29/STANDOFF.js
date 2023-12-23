@@ -353,6 +353,10 @@ player.inventory.MainInfinity.Value = true;
 player.inventory.Secondary.Value = true;
 
 player.inventory.SecondaryInfinity.Value = true;
+	
+player.inventory.Build.Value = true;
+	
+player.inventory.BuildInfinity.Value = true;
 
 player.Build.BlocksSet.Value = BuildBlocksSet.AllClear;
 
